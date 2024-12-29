@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab7cb162-3e5e-410d-afb0-55fadc7376d9)# Clustering Data Acak Menggunakan K-Means  
+# Clustering Data Acak Menggunakan K-Means  
 
 Proyek ini bertujuan untuk mempelajari dan menerapkan algoritma **K-Means Clustering** pada dataset acak yang dihasilkan secara random. Selain itu, proyek ini menggunakan **Elbow Method** untuk menentukan jumlah cluster terbaik dan mengevaluasi hasil clustering dengan **Silhouette Score**.  
 
@@ -48,12 +48,11 @@ Dataset yang digunakan dalam proyek ini adalah data acak dengan dua dimensi, **x
   - **Silhouette Score** menunjukkan bahwa cluster yang dihasilkan cukup baik.  
 
 ### Visualisasi Elbow Curve  
-![Elbow Curve](![image](https://github.com/user-attachments/assets/7def8b89-d33a-4244-9557-21fc9b4f071e))  
+![Elbow Curve](![image](https://github.com/user-attachments/assets/ab7cb162-3e5e-410d-afb0-55fadc7376d9))  
 *Elbow point menunjukkan jumlah cluster terbaik pada 15 cluster.*  
 
 ### Visualisasi Hasil Clustering  
-![Cluster Visualization](![image](https://github.com/user-attachments/assets/6ad5046b-4011-483a-8d40-aa40fc5d3c33)
-)  
+![Cluster Visualization](![image](https://github.com/user-attachments/assets/7def8b89-d33a-4244-9557-21fc9b4f071e))  
 *Data acak yang telah dikelompokkan menjadi 15 cluster.*  
 
 ---
